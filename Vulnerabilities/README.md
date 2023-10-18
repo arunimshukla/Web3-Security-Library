@@ -149,6 +149,7 @@ To know more about Bad Randomness, check this article from SlowMist: "[Intro to 
 
 # Resources:
 
+- [Olympix Security Academy - List of Common Smart Contract Vulnerabilities, Examples & Bug Fixes](https://security-academy.olympix.ai/)
 - [Consensys Smart Contract Best Practices Attacks](https://consensys.github.io/smart-contract-best-practices/attacks/)
 - [Consensys Smart Contract Best Practices Development Recommendations](https://consensys.github.io/smart-contract-best-practices/development-recommendations/)
 - [SWC Registry, Smart Contract Weakness Classification and Test Cases](https://swcregistry.io/)
