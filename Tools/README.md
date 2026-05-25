@@ -90,7 +90,7 @@ Blockchain analytics and crypto compliance platform.
 
 - [Nansen](https://nansen.ai)
 
-An on-chain data analytics paltform.
+An on-chain data analytics platform.
 
 - [Messari](https://messari.io)
 
@@ -160,6 +160,11 @@ Smart contract weakness classification.
 
 - [Ziion Linux distro fosuched on blockchain security](https://www.ziion.org/)
 
+- [VigilSeek Aggregation Platform](https://www.vigilseek.com/)
+Aggregates ongoing and upcoming bug bounty programs and audit competitions from all platforms on the market. 
+
+- [VigilSeek Telegram Alerts](t.me/vigilseek)
+Telegram channel with bug bounty programs and audit competitions announcements from all platforms on the market.
 
 # Resources:
 
